@@ -1,1 +1,105 @@
-# apeirodentro-sys.github.io
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Trilha de Estudos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 8px;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      margin-top: 32px;
+      margin-bottom: 8px;
+      border-bottom: 2px solid #333;
+      padding-bottom: 4px;
+    }
+
+    p {
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+
+    ul {
+      padding-left: 20px;
+      line-height: 1.9;
+    }
+
+    .objetivo {
+      background: #fff;
+      border-left: 4px solid #2563eb;
+      padding: 12px 16px;
+      margin: 16px 0;
+      border-radius: 4px;
+    }
+
+    footer {
+      margin-top: 48px;
+      font-size: 0.8rem;
+      color: #888;
+      border-top: 1px solid #ccc;
+      padding-top: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Minha Trilha de Estudos</h1>
+  <p>Planejamento pessoal de carreira na área de Computação</p>
+
+  <h2>Objetivo</h2>
+  <div class="objetivo">
+    <p>
+      Seguir a trilha de <strong>Machine Learning</strong>, integrada com a de <strong>Inteligência Artificial</strong>,
+      aplicando os conhecimentos na área de <strong>Cybersegurança</strong> — com foco em automação e valorização no mercado de trabalho.
+    </p>
+  </div>
+
+  <h2>Trilhas Escolhidas</h2>
+  <ul>
+    <li><strong>Machine Learning</strong> — trilha principal</li>
+    <li><strong>Inteligência Artificial</strong> — em conjunto com ML</li>
+  </ul>
+
+  <h2>Por que essa combinação?</h2>
+  <p>
+    A ideia é usar ML e IA como ferramentas dentro da Cybersegurança, principalmente para automatizar tarefas,
+    detectar ameaças e criar soluções inteligentes de defesa. Além disso, essa combinação agrega bastante valor
+    no mercado de tecnologia e está alinhada com meus interesses na área de computação.
+  </p>
+
+  <h2>O que pretendo aprender</h2>
+  <ul>
+    <li>Python aplicado a dados e segurança</li>
+    <li>Modelos de Machine Learning (classificação, detecção de anomalias)</li>
+    <li>Fundamentos de redes e segurança da informação</li>
+    <li>Automação com IA (agentes, LLMs)</li>
+    <li>Aplicações práticas: detecção de intrusão, análise de malware</li>
+  </ul>
+
+  <h2>Próximos passos</h2>
+  <ul>
+    <li>Concluir os cursos das trilhas de ML e IA</li>
+    <li>Fazer projetos práticos voltados à segurança</li>
+    <li>Participar de CTFs para ganhar experiência</li>
+    <li>Buscar certificações relevantes (ex: CompTIA Security+)</li>
+  </ul>
+
+  <footer>
+    Feito por um aluno de graduação em Computação &mdash; 2025
+  </footer>
+
+</body>
+</html>
